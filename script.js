@@ -6,11 +6,11 @@ const levelEl = document.getElementById("level");
 const img = document.getElementById("character");
 
 const stages = [
-"https://images.unsplash.com/photo-1494790108377-be9c29b2930?w=700",
-"https://images.unsplash.com/photo-1517841905240-472988babdf9?w=700",
-"https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?w=700",
-"https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=700",
-"https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=700"
+"https://i.pinimg.com/originals/6a/f1/e8/6af1e8bf3596f76fc19ab6df16858077.jpg?nii=t",
+"https://i.pinimg.com/736x/3a/26/54/3a2654ce96a7845663f12f86a0514106.jpg",
+"https://i.pinimg.com/originals/2a/b1/82/2ab18240c7c96241d3cc62e88e5c5505.webp",
+"https://i.pinimg.com/736x/25/43/38/2543384165ea19f0e221577f522db282.jpg",
+"https://a.lmcdn.ru/img600x866/X/D/XD001XW044ZN_31857973_2_v4.jpg"
 ];
 
 document.getElementById("clickBtn").addEventListener("click", () => {
