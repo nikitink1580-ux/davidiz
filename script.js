@@ -6,12 +6,12 @@ const levelEl = document.getElementById("level");
 const img = document.getElementById("character");
 
 const stages = [
-"images/girl1.jpg",
-"images/girl2.jpg",
-"images/girl3.jpg",
-"images/girl4.jpg",
-"images/girl5.jpg",
-"images/girl6.jpg"
+"images/girl1.jpg.png",
+"images/girl2.jpg.png",
+"images/girl3.jpg.png",
+"images/girl4.jpg.png",
+"images/girl5.jpg.png",
+"images/girl6.jpg.png"
 ];
 document.getElementById("clickBtn").addEventListener("click", () => {
     points++;
